@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Emoji and Lojban attitudinals
+tags: [lojban, attitudinals, emoji]
 ---
 
 😀 I like learning the Lojban language. 🤓 Especially the class of words known as "attitudinals" I find interesting because they are essentially spoken emotions.  🤔 I thought I might practice by mapping emoji to attidudinals and vice versa. 
@@ -69,8 +70,8 @@ Here are some miscellaneous emoji:
 
 Emoji | | |
 ---|---|---|
-😥 | uinaio'u | [unhappiness][relaxation] |
-😖 | oiro'ia'onai | [pain][emotional][despair] |
+😥 | uinai.o'u | [unhappiness][relaxation] |
+😖 | oiro'i.a'onai | [pain][emotional][despair] |
 😈 | uivu'enai | [happy][evil] |
 👿 | uinaivu'enai | [unhappy][evil] |
 😜 | zo'o | [humorously] |
